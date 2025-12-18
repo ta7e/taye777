@@ -1,11 +1,10 @@
 # cybervon-labs 🧪🔐
-Lab repository documenting hands on practice, tools, scripts, and notes.
-- Penetration testing labs
-- Tool development and automation
-- Technical documentation and learning notes
+Lab repository documenting hands on practice, tools, scripts, and notes
+- Tools development and automation
+- Technical documentation
 
 ## 🧠 Focus Areas
-- Network & web reconnaissance
+- Network & Web reconnaissance
 - Vulnerability assessment
 - Exploitation & post-exploitation
 - Linux & Windows security
@@ -13,20 +12,20 @@ Lab repository documenting hands on practice, tools, scripts, and notes.
 - Real-world lab environments
 
 ## 📂 Repository Structure
-- tools/              # Reviewed tools
-- scripts/            # Bash, Python, PowerShell automation
-- notes/              # Technical notes 
+- packet-analysis-project/   # Packet capture analysis, traffic inspection, threat investigation
+- network-recon-project/     # Network discovery, scanning
+- log-analysis-lab/          # Log review, alert analysis, and incident investigation
+- detection-notes/           # Detection logic, indicators
+- tools/                     # Security tools
+- scripts/                   # Bash, Python, PowerShell
+- notes/                     # Technical notes 
 
 ## 🛠️ Skills & Tools
 - **Operating Systems:** Kali Linux, Windows
 - **Security Tools:** Nmap, Burp Suite, Metasploit, Wireshark
-- **Languages:** Python, Bash, PowerShell
+- **Scriting:** Python, Bash, PowerShell
 - **Domains:** Networking, Web Security, Active Directory
 
-## 🎯 Goals
-- Build real-world cyber engineering skills
-- Develop custom security tools
-- Contribute to open-source security projects
-- Grow into a professional cybersecurity role
+
 
 
